@@ -1,0 +1,78 @@
+.resume-builder-container {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.personal-info-form,
+.education-form,
+.experience-form,
+.skills-form,
+.projects-form,
+.certificates-form,
+.template-selector,
+.photo-upload {
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  padding: 12px;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.personal-info-form input,
+.education-item input,
+.experience-item input,
+.project-item input {
+  display: block;
+  width: 100%;
+  margin: 6px 0 12px;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+}
+
+.resume-preview {
+  background: #f9fafb;
+  border: 1px solid #eee;
+  padding: 16px;
+  border-radius: 8px;
+  width: 320px;
+}
+
+.resume-preview h2 {
+  margin: 0 0 8px;
+}
+
+.resume-preview section {
+  margin-top: 12px;
+}
+
+.template-selector .templates button {
+  margin-right: 8px;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+}
+
+.photo-upload img {
+  display: block;
+  margin-top: 8px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.resume-toolbar {
+  display: flex;
+  gap: 8px;
+}
+
+.resume-toolbar button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #dcdcdc;
+  background: #fff;
+  cursor: pointer;
+}

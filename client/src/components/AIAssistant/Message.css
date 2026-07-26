@@ -1,0 +1,17 @@
+.message{
+max-width:70%;
+padding:14px;
+margin:15px 0;
+border-radius:12px;
+}
+
+.user{
+margin-left:auto;
+background:#2563eb;
+color:white;
+}
+
+.ai{
+background:#e5e7eb;
+color:#111827;
+}

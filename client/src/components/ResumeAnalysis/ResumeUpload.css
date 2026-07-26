@@ -1,0 +1,15 @@
+.upload-card{
+
+background:white;
+padding:30px;
+border-radius:15px;
+margin-bottom:30px;
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.upload-card input{
+
+margin-top:20px;
+
+}

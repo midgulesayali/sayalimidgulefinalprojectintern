@@ -1,0 +1,33 @@
+.skill-input{
+display:flex;
+gap:10px;
+}
+
+.skill-input input{
+flex:1;
+}
+
+.skill-input button{
+padding:10px 18px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+}
+
+.skill-list{
+margin-top:15px;
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+}
+
+.skill-chip{
+background:#2563eb;
+color:white;
+padding:8px 15px;
+border-radius:30px;
+cursor:pointer;
+font-size:14px;
+}

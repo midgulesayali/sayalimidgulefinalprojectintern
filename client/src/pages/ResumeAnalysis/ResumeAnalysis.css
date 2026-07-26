@@ -1,0 +1,13 @@
+.analysis-page{
+max-width:1200px;
+margin:auto;
+padding:40px;
+background:#f5f7fb;
+min-height:100vh;
+}
+
+.analysis-page h1{
+text-align:center;
+color:#2563eb;
+margin-bottom:30px;
+}

@@ -1,0 +1,11 @@
+.project-card{
+margin-top:15px;
+padding:15px;
+background:#f8fafc;
+border-left:5px solid #2563eb;
+border-radius:8px;
+}
+
+.project-card h4{
+margin-bottom:5px;
+}

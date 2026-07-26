@@ -1,0 +1,31 @@
+.keyword-card{
+background:white;
+padding:25px;
+margin-top:25px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.keyword-list{
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+margin:20px 0;
+}
+
+.keyword-list span{
+background:#f59e0b;
+color:white;
+padding:8px 14px;
+border-radius:20px;
+}
+
+.suggestions ul{
+margin-top:15px;
+padding-left:20px;
+}
+
+.suggestions li{
+margin-bottom:10px;
+line-height:1.6;
+}

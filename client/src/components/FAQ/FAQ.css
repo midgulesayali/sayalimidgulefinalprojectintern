@@ -1,0 +1,11 @@
+.faq{
+padding:70px;
+background:white;
+}
+
+.faq-item{
+margin-top:25px;
+padding:20px;
+background:#f5f7fb;
+border-radius:10px;
+}

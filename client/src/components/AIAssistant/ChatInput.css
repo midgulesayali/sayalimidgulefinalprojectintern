@@ -1,0 +1,26 @@
+.chat-input{
+display:flex;
+gap:10px;
+}
+
+.chat-input input{
+flex:1;
+padding:15px;
+border-radius:10px;
+border:1px solid #d1d5db;
+font-size:16px;
+}
+
+.chat-input button{
+padding:15px 25px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:10px;
+cursor:pointer;
+font-size:16px;
+}
+
+.chat-input button:hover{
+background:#1d4ed8;
+}

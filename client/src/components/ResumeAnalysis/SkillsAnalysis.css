@@ -1,0 +1,35 @@
+.skills-analysis{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
+margin-top:25px;
+}
+
+.matched-skills,
+.missing-skills{
+background:white;
+padding:25px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.skills-container{
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+margin-top:20px;
+}
+
+.matched{
+background:#22c55e;
+color:white;
+padding:8px 14px;
+border-radius:20px;
+}
+
+.missing{
+background:#ef4444;
+color:white;
+padding:8px 14px;
+border-radius:20px;
+}

@@ -1,0 +1,20 @@
+.actions{
+
+margin-top:30px;
+background:white;
+padding:25px;
+border-radius:15px;
+
+}
+
+.actions button{
+
+margin:10px;
+padding:12px 25px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+
+}
